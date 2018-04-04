@@ -8,7 +8,7 @@ This programs takes a test files that contains the grid map in a certain format 
 returns the most efficient path to take with it costs. It also draw up 
 the map of all most efficient path to each point in the map to take from the starting point.
 
-This code applies Djikstra's Algorithm to find the most efficient path.
+This code applies Depth First Search Algorithm to find the most efficient path.
 
 ## Test Files Format
 
