@@ -17,7 +17,7 @@ E.g 3 3 means a 3x3 grid map <br />
 <br />
 The next lines will contain the cost of the path from each intersection <br />
 E.g 2b 999 1 1 1 <br />
-It means from intersection 2b it will cost 999 to go west, 1 to go north, 1 to go east, and 1 to go south. <br /> 
+It means from intersection 2b it will cost 999 to go east, 1 to go north, 1 to go west, and 1 to go south. <br /> 
 999 means that it's impossible to go through that path<br />
 <br />
 The next lines after the intersection cost info is the starting point and followed by the destination points. <br />
